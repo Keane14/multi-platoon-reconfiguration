@@ -7,4 +7,4 @@ The simulation results for platoon driving in the multi-platoon reconfiguration 
 
 ## Here we provide the GIF.
 
-<img src="https://github.com/cmc623/Formation-control-with-lane-preference/blob/main/result_FRC.gif" width="1000" />
+<img src="https://github.com/Keane14/multi-platoon-reconfiguration/blob/main/out.gif" width="1000" />
